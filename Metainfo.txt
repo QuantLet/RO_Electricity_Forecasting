@@ -1,1 +1,6 @@
-
+Name of Quantlet: RO_Electricity_Forecasting
+Published in: Quantlet
+Description: 'Benchmarks time series forecasting models on Romania's national electricity consumption data, comparing traditional statistical approaches with modern neural and transformer-based architectures.'
+Keywords: time series forecasting, electricity consumption, Romania, energy demand prediction, neural models, SARIMA, N-BEATS, TimeGPT, Titans, benchmarking
+Author: Cosmin Adrian Proșcanu, Miruna Elena Proșcanu, Daniel Traian Pele, Adrian Costea
+Submitted: 2025-04-23 by Cosmin Adrian Proșcanu
